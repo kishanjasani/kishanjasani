@@ -25,8 +25,6 @@
 
 I'm a Fullstack Wordpress Developer 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Wordpress Theme 🤓. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing supports 🏃⛹️‍♂️🏋🏼‍♂️.
 
-
-
 ### More about me...
 
 - 🔭 I’m currently working on Wordpress, Javascript, HTML, CSS etc 💻.
@@ -34,7 +32,5 @@ I'm a Fullstack Wordpress Developer 🎓. I'm a passionate learner who's always 
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / JAM Stack.
 
 ### Show some ❤️ by starring some of the repositories!
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=kishanjasani&show_icons=true&hide_border=true)
 
 ⭐️ From [kishanjasani](https://github.com/kishanjasani)
