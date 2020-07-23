@@ -38,4 +38,3 @@ I'm a Fullstack Wordpress Developer 🎓. I'm a passionate learner who's always 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kishanjasani&show_icons=true&hide_border=true)
 
 ⭐️ From [kishanjasani](https://github.com/kishanjasani)
-![](https://komarev.com/ghpvc/?username=kishanjasani&style=flat-square&color=blue)
