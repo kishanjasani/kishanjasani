@@ -27,7 +27,7 @@ I'm a Fullstack Wordpress Developer 🎓. I'm a passionate learner who's always 
 
 ### More about me...
 
-- 🔭 I’m currently working on Wordpress, Javascript, HTML, CSS etc 💻.
+- 🔭 I’m currently working on Wordpress, Javascript, HTML, SCSS, Gutenberg etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / JAM Stack.
 
