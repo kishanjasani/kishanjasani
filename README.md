@@ -23,11 +23,11 @@
 
 ## Glad to see you here! 🤩 !
 
-I'm a Fullstack Wordpress Developer 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Wordpress Theme 🤓. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing supports 🏃⛹️‍♂️🏋🏼‍♂️.
+I'm a Fullstack WordPress Developer 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my WordPress Theme 🤓. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing supports 🏃⛹️‍♂️🏋🏼‍♂️.
 
 ### More about me...
 
-- 🔭 I’m currently working on Wordpress, Javascript, HTML, SCSS, Gutenberg etc 💻.
+- 🔭 I’m currently working on WordPress, Javascript, HTML, SCSS, Gutenberg etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / JAM Stack.
 
